@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Lionel Messi",
+    "nombreCompleto": "Lionel Andrés Messi Cuccittini",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/28003-1740766555.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Argentina",
+    "fechaNacimiento": "1987-06-24"
+  },
+  {
+    "nombre": "Cristiano Ronaldo",
+    "nombreCompleto": "Cristiano Ronaldo dos Santos Aveiro",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/8198-1748102259.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Portugal",
+    "fechaNacimiento": "1985-02-05"
+  },
+  {
+    "nombre": "Neymar",
+    "nombreCompleto": "Neymar da Silva Santos Júnior",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/68290-1692601435.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Brasil",
+    "fechaNacimiento": "1992-02-05"
+  },
+  {
+    "nombre": "Kylian Mbappé",
+    "nombreCompleto": "Kylian Mbappé Lottin",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/342229-1682683695.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Francia",
+    "fechaNacimiento": "1998-12-20"
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "nombreCompleto": "Robert Lewandowski",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/38253-1701118759.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "fechaNacimiento": "1988-08-21"
+  },
+  {
+    "nombre": "Karim Benzema",
+    "nombreCompleto": "Karim Mostafa Benzema",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/18922-1702414196.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Francia",
+    "fechaNacimiento": "1987-12-19"
+  },
+  {
+    "nombre": "Luka Modrić",
+    "nombreCompleto": "Luka Modrić",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/27992-1687776160.jpg?lm=1",
+    "posicion": "Centrocampista",
+    "nacionalidad": "Croacia",
+    "fechaNacimiento": "1985-09-09"
+  },
+  {
+    "nombre": "Kevin De Bruyne",
+    "nombreCompleto": "Kevin De Bruyne",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/88755-1713391485.jpg?lm=1",
+    "posicion": "Centrocampista",
+    "nacionalidad": "Bélgica",
+    "fechaNacimiento": "1991-06-28"
+  },
+  {
+    "nombre": "Erling Haaland",
+    "nombreCompleto": "Erling Braut Haaland",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/418560-1709108116.png?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Noruega",
+    "fechaNacimiento": "2000-07-21"
+  },
+  {
+    "nombre": "Vinícius Júnior",
+    "nombreCompleto": "Vinícius José Paixão de Oliveira Júnior",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/371998-1664869583.jpg?lm=1",
+    "posicion": "Delantero",
+    "nacionalidad": "Brasil",
+    "fechaNacimiento": "2000-07-12"
+  }
+]
