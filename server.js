@@ -37,10 +37,7 @@ app.use((req, res, next) => {
 app.use(express.json());
 
 // Conectar a Mongo
-mongoose.connect(process.env.MONGO_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-});
+mongoose.connect(process.env.MONGO_URI);
 
 // Ruta raíz para verificar que el API funciona
 app.get('/', (req, res) => {
